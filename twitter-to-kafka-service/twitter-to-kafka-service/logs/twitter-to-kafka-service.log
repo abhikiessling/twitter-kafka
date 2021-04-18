@@ -1,0 +1,6 @@
+2021-04-18 05:38:35 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Abhisheks-MacBook-Air.local with PID 55519 (/Users/abhishek/Downloads/microservices-demo/twitter-to-kafka-service/target/classes started by abhishek in /Users/abhishek/Downloads/microservices-demo/twitter-to-kafka-service)
+2021-04-18 05:38:35 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 05:38:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.611 seconds (JVM running for 6.337)
+2021-04-18 05:38:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-04-18 05:38:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-04-18 05:38:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
